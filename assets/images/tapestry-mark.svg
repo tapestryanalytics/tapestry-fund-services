@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title">
+<title>Tapestry geometric mark</title>
+<rect width="120" height="120" rx="18" fill="#071d38"/>
+<g fill="none" stroke-linecap="round" stroke-width="8">
+<path d="M20 44 44 20l56 56-24 24z" stroke="#d3a13d"/>
+<path d="M20 76 76 20l24 24-56 56z" stroke="#f4f6f9"/>
+<path d="M36 20 100 84" stroke="#d3a13d"/>
+<path d="M20 36 84 100" stroke="#f4f6f9"/>
+</g>
+</svg>
